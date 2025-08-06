@@ -47,4 +47,4 @@ rollNumber,name,mark1,mark2,mark3,mark4,mark5
 ---
 
 ## 🪪 License
-This project is released under the [MIT License](https://github.com/Codris-exe/Student_Management).
+This project is released under the [MIT License](https://github.com/Codris-exe/Student_Management/blob/master/LICENSE.md).
